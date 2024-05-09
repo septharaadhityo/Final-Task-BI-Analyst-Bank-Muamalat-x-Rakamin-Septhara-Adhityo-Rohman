@@ -25,5 +25,5 @@ Project ini menggunakan beberaoa tools yakni:
 4. Export hasil table master dalam bentuk CSV
 6. Membuat Dashboard atau visualisasi data menggunakan Looker Studio
 
-# Dashoard
+# Dashboard
 https://lookerstudio.google.com/reporting/65d586c4-b8db-41b7-9449-6404ce2810a2
